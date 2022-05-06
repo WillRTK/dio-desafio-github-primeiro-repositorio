@@ -25,4 +25,37 @@ R- Segundo canaltech.com o domínio [Symbolics.com](Symbolics.com) continua no a
 
 [Fonte](https://canaltech.com.br/internet/quais-sao-os-dominios-mais-antigos-do-mundo-e-do-brasil-181571/)
 
+## O que são redes
+
+- Rede - Conexão entre 2 ou mais computadores
+- Backbone - Estruturas que gerencião o tráfego da internet e as conexões.
+- Provedor de acesso - Fornecem servisos de internet como Dial-up, ADSL, Fibra ótica, entre outras.
+
+### Caminho inverso da internet
+
+- WWW
+- DNS
+- IP
+- Classes de redes
+- 127.0.0.1(Local Host)
+
+## TCP/IP, portas, roteadores, switches, modems
+
+### TCP/IP
+
+TCP - Tansmission Control Protocol (Protocolo de Controle de Transmissão)
+
+IP - Internet Protocol (Protocolo de Internet)
+
+
+Uma comunicação entre dispositivos passam por 4 camadas.
+
+1. Física (EX: placa de rede)
+2. Rede (EX: IP)
+3. Transporte (EX: TCP, UDP)
+4. Aplicação (EX: FTP, SMTP, HTTP)
+
+### Portas (Inglês: ports)
+
+"Portas" por onde sairão e chegarão os dados.
 
